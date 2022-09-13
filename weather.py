@@ -1,11 +1,11 @@
 import requests
 def w():
 
-    url = "https://aerisweather1.p.rapidapi.com/observations/Goa,in"
+    url = "https://aerisweather1.p.rapidapi.com/observations/"
 
     headers = {
-        "X-RapidAPI-Key": "cc09c2dff5mshe9da178defb9fe2p177ad5jsnd07927977aed",
-        "X-RapidAPI-Host": "aerisweather1.p.rapidapi.com"
+        "X-RapidAPI-Key": "",
+        "X-RapidAPI-Host": ""
     }
 
     response = requests.request("GET", url, headers=headers)
