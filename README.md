@@ -9,6 +9,6 @@ for detecting faces ,all required faces images has to be pasted in faces folder,
 and install all depoendences from requirements.py folder
 
 
-#all commands to the assistance can be found in main.py file 
+#all commands to the assistant can be found in main.py file 
 eg face,detect,joke etc!!
 
